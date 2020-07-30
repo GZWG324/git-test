@@ -10,6 +10,6 @@ public class git8 {
     }
     public void test(){
         int i = 0;
-        i += 10;
+        i += 111;
     }
 }
